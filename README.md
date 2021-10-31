@@ -1,6 +1,8 @@
 # Search-City-Tool
 2020 TAMU Datathon
 
+**check http://abbyxr.com/projects.html to learn more...**
+
 Inspiration
 We were inspired by the worldwide cities ranking and wanted to provide people with the characteristics of major cities in the United States. We are committed to choosing the city based on one?s inclination through a variety of constraints (Different people's hearts yearn for the holy land is different!) The design of our project was inspired by websites like US News Ranking and we spare no efforts to make our project more unique.
 
